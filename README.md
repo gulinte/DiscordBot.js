@@ -7,7 +7,7 @@ $ cd Desktop/DsBotProject
 ```bash
 $ npm init
 ```
-3. You can also install <a href="https://www.npmjs.com/package//nodemon">nodemon</a> to restart automatically when file changes in the directory are detected.
+3. You can also install <a href="https://www.npmjs.com/package//nodemon">nodemon</a> to restart automatically when you make changes in the file.
 ```bash
 $ npm i nodemon
 ```
