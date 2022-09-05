@@ -24,4 +24,4 @@ $ npm i discord.js
 ```bash
 $ nodemon bot.js
 ```
- If you see "Logged in as YourDiscordBot#0000" on the command line, hats off to you! You did it. At the moment your bot is online and responds to your messages.
+ If you see "Logged in as YourDiscordBot#0000" on the command line, hats off to you! You did it. At the moment, your bot is online and responds to your messages.
